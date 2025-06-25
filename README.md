@@ -18,14 +18,13 @@ Screenshot of bottom Case
 Screenshot of top case
 ![1750859815155](image/README/1750859815155.png)
 
-Bill of materials:
-PCB
-top and bottom Case
-6 switches
-6 keycaps
-1 potentiometer
-XIAO
-
-I have my own 3d printer and can print the case myself if that's easier
+|Bill of materials:|Notes|
+|-|-|
+|PCB||
+|top and bottom Case|I have my own 3d printer and can print the case myself if that's easier|
+|6 switches||
+|6 keycaps|I have my own 3d printer and can print the keycaps myself if that's easier|
+|1 potentiometer/knob|I have my own potentiometer and can use that if you dont want to send me one|
+|XIAO rp2040 seed studio||
 
 Sorry if i missed anything
