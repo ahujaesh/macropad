@@ -26,5 +26,6 @@ Screenshot of top case
 |6 keycaps|I have my own 3d printer and can print the keycaps myself if that's easier|
 |1 potentiometer/knob|I have my own potentiometer and can use that if you dont want to send me one|
 |XIAO rp2040 seed studio||
+Note: I have my own soldering iron as well btw so i can use that
 
 Sorry if i missed anything
