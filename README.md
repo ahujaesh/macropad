@@ -1,7 +1,10 @@
 # e'sPad
 
-Screenshot of overall pad
-![1750696413647](image/README/1750696413647.png)
+Screenshot of overall pad with top transparent
+![1750859752964](image/README/1750859752964.png)
+
+Screenshot of pad without transparency of top case
+![1750859793223](image/README/1750859793223.png)
 
 Screenshot of schematic
 ![1750696481759](image/README/1750696481759.png)
@@ -9,14 +12,15 @@ Screenshot of schematic
 Screenshot of PCB
 ![1750696501634](image/README/1750696501634.png)
 
-Screenshot of Case
+Screenshot of bottom Case
 ![1750696556627](image/README/1750696556627.png)
-Please note: I only want a case that covers the bottom side of the pcb not the top because i think the pcb looks cool and i don't want to cover it, so i only have a bottom case. I asked in the slack and people said that you've let them do it before so it should be ok
-![1750696652983](image/README/1750696652983.png)
+
+Screenshot of top case
+![1750859815155](image/README/1750859815155.png)
 
 Bill of materials:
 PCB
-Case
+top and bottom Case
 6 switches
 6 keycaps
 1 potentiometer
