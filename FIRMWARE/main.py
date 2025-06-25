@@ -33,5 +33,3 @@ keyboard.keymap = [
 # Start kmk!
 if __name__ == '__main__':
     keyboard.go()
-
-#I'm planning on adding the potentiometer later for volume control. I also don't want a top 3d printed shell because i think the pcb looks cool and i want to leave it exposed
