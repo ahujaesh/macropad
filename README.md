@@ -17,7 +17,6 @@ Screenshot of bottom Case
 
 Screenshot of top case
 ![1750859815155](PRODUCTION/IMG_3273.png)
-[LINK (the image only sometimes works and idk why) ](PRODUCTION/IMG_3273.png)
 
 |Bill of materials:|Notes|
 |-|-|
