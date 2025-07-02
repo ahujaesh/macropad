@@ -1,3 +1,5 @@
+note: this has been approved and this repository archived
+
 # e'sPad
 
 Screenshot of overall pad with top transparent
